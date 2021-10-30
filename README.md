@@ -1,4 +1,8 @@
 # clinic-management
+## Heroku demo
+Try hospital management system with the Heroku demo<br>
+Link to demo ----> [Hospital management system](https://clinicmanagement.herokuapp.com/)<br>
+
 ***Login id's for the demo app***
 1. **To login as Administrator**
   - username : administrator
